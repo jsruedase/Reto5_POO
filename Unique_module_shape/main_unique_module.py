@@ -1,4 +1,4 @@
-import Unique_module.shape as shape
+import shape_package.shape as shape
 
 def main():
     forma = shape.Shape([shape.Point(0,0), shape.Point(1,0), shape.Point(1,1), shape.Point(0,1)])
