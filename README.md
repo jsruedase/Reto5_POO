@@ -1,7 +1,7 @@
 # Reto5_POO
 Quinto Reto POO
 
-Carpeta 1, Multiple_modules, donde hay un paquete para shape, otro para rectanle y otro para triangle, cada uno con sus subclases. En main_multiple_modules se corre el programa principal com
+Carpeta 1, Multiple_modules, donde hay un paquete para shape, otro para rectanle y otro para triangle, cada uno con sus subclases. En main_multiple_modules se corre el programa principal creando una figura a través del paquete shape, luego los vértices de un cuadrado pero usando la clase rectángulo y finalmente un triángulo.
 ```
 Multiple_modules/
 ├── shape_package/
